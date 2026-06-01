@@ -123,52 +123,6 @@ El objetivo principal es explorar el escenario, encontrar objetos clave y resolv
 
 ---
 
-### Opción 2: Ejecutar desde Unity
-
-1. Clona el repositorio:
-
-```bash
-git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
-```
-
-2. Abre Unity Hub.
-3. Selecciona **Add project from disk**.
-4. Abre la carpeta del proyecto.
-5. Usa Unity 6.3 o una versión compatible.
-6. Abre la escena principal desde:
-
-```bash
-Assets/Scenes/
-```
-
-7. Presiona **Play** en el editor.
-
----
-
-## Estructura del proyecto
-
-```bash
-FET-Silent-Campus/
-│
-├── Assets/
-│   ├── Scenes/
-│   ├── Scripts/
-│   ├── Models/
-│   ├── Materials/
-│   ├── Textures/
-│   ├── Audio/
-│   └── Prefabs/
-│
-├── docs/
-│   └── images/
-│
-├── ProjectSettings/
-├── Packages/
-└── README.md
-```
-
----
-
 ## Estado del proyecto
 
 El proyecto se encuentra actualmente en fase de prototipo jugable.
