@@ -1,16 +1,16 @@
-# FET: Silent Campus
+# FET:
 
 ![Banner del juego](docs/images/banner.png)
 
 ## Descripción
 
-**FET: Silent Campus** es un videojuego de terror psicológico y exploración desarrollado como proyecto académico de Ingeniería de Software en la **Fundación Escuela Tecnológica de Neiva “Jesús Oviedo Pérez” - FET**.
+**FET** es un videojuego de terror y exploración desarrollado como proyecto académico de Ingeniería de Software en la **Fundación Escuela Tecnológica de Neiva “Jesús Oviedo Pérez” - FET**.
 
 El juego está inspirado en la atmósfera del survival horror clásico: pasillos oscuros, niebla, iluminación limitada, tensión ambiental y una universidad transformada en un espacio inquietante. El escenario principal está basado en la FET, especialmente en el **Bloque 1**, reinterpretado dentro de una experiencia oscura, misteriosa y narrativa.
 
 El jugador deberá recorrer las instalaciones, investigar pistas, resolver pequeños acertijos y avanzar por un ambiente donde la universidad parece estar abandonada, alterada y fuera de la realidad.
 
-> Proyecto académico sin fines comerciales. No está afiliado oficialmente a Silent Hill ni a sus propietarios. La referencia es únicamente de estilo, atmósfera e inspiración visual.
+> Proyecto académico sin fines comerciales.
 
 ---
 
@@ -46,9 +46,8 @@ Puedes ver una demostración del juego aquí:
 
 * Escenario inspirado en la Fundación Escuela Tecnológica de Neiva - FET.
 * Ambientación de terror psicológico con niebla, luces bajas y sonido ambiental.
-* Exploración en tercera o primera persona, según la versión del prototipo.
+* Exploración en tercera.
 * Recreación del Bloque 1 como escenario jugable.
-* Sistema de linterna para exploración en zonas oscuras.
 * Puzzles sencillos integrados al recorrido.
 * Modelado y assets creados o adaptados en Blender.
 * Desarrollo del gameplay, iluminación y lógica en Unity.
@@ -57,8 +56,7 @@ Puedes ver una demostración del juego aquí:
 
 ## Historia / Concepto
 
-Después de una jornada normal en la universidad, el protagonista despierta dentro de una versión distorsionada de la FET. Los pasillos están vacíos, la niebla cubre los espacios abiertos y algunas zonas parecen cambiar de forma.
-
+Después de una jornada normal en la universidad, el protagonista despierta dentro de una versión distorsionada de la FET. Los pasillos están vacíos, la niebla cubre los espacios abiertos.
 Para salir, deberá recorrer el Bloque 1, encontrar pistas, activar mecanismos y descubrir qué ocurrió. La universidad deja de ser un lugar cotidiano y se convierte en un espacio de tensión, memoria y misterio.
 
 ---
@@ -72,7 +70,6 @@ El objetivo principal es explorar el escenario, encontrar objetos clave y resolv
 * Movimiento del personaje.
 * Cámara de exploración.
 * Interacción con objetos.
-* Sistema de linterna.
 * Iluminación ambiental.
 * Niebla para atmósfera de terror.
 * Diseño inicial del Bloque 1.
@@ -98,7 +95,6 @@ El objetivo principal es explorar el escenario, encontrar objetos clave y resolv
 | Correr                     | Shift   |
 | Saltar                     | Espacio |
 | Interactuar                | E       |
-| Encender / apagar linterna | F       |
 | Pausa                      | Esc     |
 
 ---
@@ -203,10 +199,11 @@ Proyecto desarrollado por estudiantes de Ingeniería de Software de la FET.
 
 **Integrantes:**
 
-* Nombre 1
-* Nombre 2
-* Nombre 3
-* Nombre 4
+*Oscar Daniel Mancipe Molina
+*Kevin Steven Guevara
+*Felipe Córdoba
+*Dany Catalina Ortega Zanabria
+
 
 ---
 
