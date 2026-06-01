@@ -112,7 +112,7 @@ El objetivo principal es explorar el escenario, encontrar objetos clave y resolv
 
 ## Cómo jugar
 
-### Opción 1: Descargar versión ejecutable
+###: Descargar versión ejecutable
 
 1. Entra a la sección **Releases** del repositorio.
 2. Descarga la última versión disponible.
@@ -153,11 +153,10 @@ Proyecto desarrollado por estudiantes de Ingeniería de Software de la FET.
 
 **Integrantes:**
 
-*Oscar Daniel Mancipe Molina
-*Kevin Steven Guevara
-*Felipe Córdoba
-*Dany Catalina Ortega Zanabria
-
+* Oscar Daniel Mancipe Molina
+* Kevin Steven Guevara
+* Felipe Córdoba
+* Dany Catalina Ortega Zanabria
 
 ---
 
