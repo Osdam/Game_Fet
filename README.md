@@ -119,7 +119,7 @@ El objetivo principal es explorar el escenario, encontrar objetos clave y resolv
 3. Descomprime el archivo `.zip`.
 4. Ejecuta el archivo del juego.
 
-[Descargar desde Releases](https://github.com/TU-USUARIO/TU-REPOSITORIO/releases)
+[Descargar desde Releases](https://github.com/Osdam/Game_Fet/releases/tag/v0.1.0-alpha)
 
 ---
 
