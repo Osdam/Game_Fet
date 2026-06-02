@@ -18,15 +18,12 @@ El jugador deberá recorrer las instalaciones, investigar pistas, resolver peque
 
 ### Entrada / Ambiente principal
 
-![Gameplay 1](docs/images/gameplay-01.png)
+![Gameplay 1](docs/images/entrada.png)
 
-### Pasillos del Bloque 1
 
-![Gameplay 2](docs/images/gameplay-02.png)
+### Salon 101 - Proyectores
 
-### Plano o diseño del escenario
-
-![Mapa Bloque 1](docs/images/mapa-bloque-1.png)
+![Mapa Bloque 1](docs/images/Proyectores.png)
 
 ### Menú o interfaz
 
