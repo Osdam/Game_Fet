@@ -105,7 +105,7 @@ El jugador deberá recorrer las instalaciones, investigar pistas, resolver peque
 
 Puedes ver una demostración del avance aquí:
 
-> 🔗 **[Ver video del juego en Google Drive](https://drive.google.com/file/d/1JrfBaDKVZUXduC-PBAC4aEs5YksJFMyi/view?usp=drive_link)**
+> 🔗 **[Ver video del juego en Google Drive](https://drive.google.com/file/d/1ZPheqE8SNeNWEBI-1Ja3XVYRsXiMr4rQ/view?usp=sharing)**
 
 ---
 
