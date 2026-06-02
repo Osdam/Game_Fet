@@ -1,6 +1,6 @@
 # FET:
 
-![Banner del juego](docs/images/banner.png)
+![Banner del juego](docs/images/Banner_Juego.png)
 
 ## Descripción
 
