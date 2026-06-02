@@ -74,8 +74,6 @@ El jugador deberá recorrer las instalaciones, investigar pistas, resolver peque
 
 </div>
 
-> 🎧 *Recomendado jugar con audífonos y luz baja: el sonido es parte de la experiencia.*
-
 ---
 
 ## 📸 Capturas del juego
@@ -173,7 +171,6 @@ El objetivo principal es **explorar el escenario, encontrar objetos clave y reso
 | :--- | :---: |
 | Moverse | `W` `A` `S` `D` |
 | Correr | `Shift` |
-| Saltar | `Espacio` |
 | Interactuar | `E` |
 | Pausa | `Esc` |
 
