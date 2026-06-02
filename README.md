@@ -94,7 +94,8 @@ El jugador deberá recorrer las instalaciones, investigar pistas, resolver peque
 
 **Menú / Interfaz**
 
-<img src="docs/images/menu.png" alt="Menú del juego" width="700"/>
+<img src="docs/images/Menu.png" alt="Menú del juego" width="700"/>
+<img src="docs/images/MenuPausa.png" alt="Menú del juego" width="700"/>
 
 </div>
 
