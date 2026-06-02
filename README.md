@@ -34,11 +34,11 @@ El jugador deberá recorrer las instalaciones, investigar pistas, resolver peque
 
 ---
 
-## Video demostrativo
+## Video de presentación
 
-Puedes ver una demostración del juego aquí:
+Puedes ver una demostracion del avance aqui:
 
-[Ver gameplay / demo](https://TU-LINK-AQUI.com)
+[Ver video del juego en Google Drive](https://drive.google.com/file/d/1JrfBaDKVZUXduC-PBAC4aEs5YksJFMyi/view?usp=drive_link)
 
 ---
 
